@@ -8,7 +8,8 @@ import IconoF from '../assets/iconos/facebook.svg'
 import IconoI from '../assets/iconos/instagram.svg'
 import IconoT from '../assets/iconos/twitter.svg'
 
-const URL = 'http://localhost:9000/suscribete';
+//const URL = 'http://localhost:9000/suscribete';
+const URL = 'https://pwaback-production.up.railway.app/suscribete';
 
 const Footer = () => {
 

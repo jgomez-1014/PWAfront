@@ -10,7 +10,8 @@ const Tienda = () => {
 
     const [plantas, setPlantas] = useState([]);
 
-    const URL = 'http://localhost:9000/tienda';
+    //const URL = 'http://localhost:9000/tienda';
+    const URL = 'https://pwaback-production.up.railway.app/tienda';
 
     const getPlantas = async () => {
         try {

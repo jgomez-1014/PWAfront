@@ -4,7 +4,7 @@ import { useNavigate } from 'react-router-dom';
 import axios from 'axios';
 //import Swal from 'sweetalert2';
 
-const URL = 'http://localhost:9000/contacto';
+const URL = 'https://pwaback-production.up.railway.app/contacto';
 
 const Contacto = () => {
 
